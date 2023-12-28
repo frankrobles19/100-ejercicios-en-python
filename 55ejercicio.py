@@ -1,0 +1,7 @@
+# HACER UN ALGORITMO PARA CONVERTIR DE GRADOS CELSIUS A GRADOS FAHRENHEIT
+
+celsius = int(input("GRADOS CELSIUS: "))
+
+f = (celsius*(9/5) + 32)
+print("A FAHRENHEIT: ",f)
+
